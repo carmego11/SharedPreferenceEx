@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SharedPreferenceEx</string>
+
+    <string name="hello_world">Hello World!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_delete">Delete</string>
+</resources>
